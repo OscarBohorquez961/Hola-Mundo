@@ -1,4 +1,5 @@
-# hola-mundo
+# Hola Mundo
+Mi primer repositorio
 
 
 Autor: Oscar Bohorquez
